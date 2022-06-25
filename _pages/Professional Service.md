@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Service
+Professional Service
 ======
 * Reviewer: ICIS, ECIS, AOM
 * Ivey IS Brown Bag Coordinator, 2021-2022
