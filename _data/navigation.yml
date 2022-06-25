@@ -2,7 +2,10 @@
 main:
   - title: "Research"
     url: /research/
-    
+  
+  - title: "Teaching"
+    url: /teaching/
+  
   - title: "Honors and Awards"
     url: /awards/
     
@@ -15,6 +18,5 @@ main:
   
   
   
-
     
   
