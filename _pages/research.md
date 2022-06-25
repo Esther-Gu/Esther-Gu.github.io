@@ -31,7 +31,7 @@ Academy of Management (AOM)*, Seattle, WA.
 
 * Gu, H., Rahrovani Y, Austin R. (2021). [Role of Digital Technology in Product Meaning Innovation: A Design Perspective](https://journals.aom.org/doi/abs/10.5465/AMBPP.2021.11891abstract). *Proceedings of the 81st Annual Meeting of the Academy of Management (AOM)*, Vitrual.
 
-* Gu, H., Rahrovani Y. (2019). [Designer Adaptation: A Feedback Perspective in the Context of Mobile Applications](https://aisel.aisnet.org/icis2019/mobile_iot/mobile_iot/1/). *Proceedings of the 40th International Conference on Information Systems (ICIS)*, Munich, Germany.
+* Gu, H., Rahrovani Y. (2019). [Designer Adaptation: A Feedback Perspective](https://aisel.aisnet.org/icis2019/mobile_iot/mobile_iot/1/). *Proceedings of the 40th International Conference on Information Systems (ICIS)*, Munich, Germany.
 
 * Neufeld, D.J., Gu, H. (2019). [Leadership Emergence and Impact on Open Source Software Project Success: A Comparative Case Study](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.11698abstract). *Proceedings of the 79th Annual Meeting of the Academy of Management (AOM)*, Boston, MA.
 
