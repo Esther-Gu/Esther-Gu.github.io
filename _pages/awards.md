@@ -9,7 +9,12 @@ redirect_from:
 
 Honors and Awards
 ======
-* John F. Rankin Doctoral Scholarship, 2021
-* Ivey Plan for Excellence (PhD Fellowship), 2020-2025
-* Dalhousie In-Course Scholarship
+
+
+* Graduate Fellowship, 2022
+* Brock Scholarship, 2017-2021
+* Ivey Plan for Excellence, 2017-2021
+* Microsoft GrilSpark Business Case Competition, Champion, 2017 
+
+
 
