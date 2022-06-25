@@ -8,15 +8,31 @@ redirect_from:
 ---
 
 
-Working Paper
+Dissertation Research 
 ======
-* Lei, Y., Pun, H., Ødegaard, F. [Triple Uncertainties: Credence Goods, Deceptive Counterfeits, and Fake Product Reviews](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3915087). 
-  * Worried about unwittingly buying counterfeits, online customers often resort to “the wisdom of crowds” (e.g., product reviews) before purchasing. However, unethical sellers may game the review system through buying fake reviews. In this paper, we use a two-period game theoretical model to study a market that consists of an authentic seller and a deceptive counterfeiter; they sell credence goods (e.g., nutritional supplements and N95 masks) whose qualities are difficult to evaluate, so customers cannot differentiate genuine products from counterfeits even after consumption. In the beginning, the authentic seller decides the level of selling effort. In the first period, customers make purchasing decisions and leave either positive or negative product reviews. In the second period, the counterfeiter decides whether to buy fake positive product reviews. Then, each seller may receive a product badge that is granted based on the fraction of reviews being positive. Customers update their beliefs about sellers’ authenticity depending on badge status and then make purchasing decisions. We find that the authentic seller can benefit, while the counterfeiter can be worse off, from the counterfeiter having an option to buy fake product review. We also show that the fake review option can increase consumer surplus. Lastly, even though the counterfeiter bears the cost of fake review, the counterfeiter can be better off from a higher price of fake review, whereas the authentic seller is worse off.
-  
+I am working on revising the full draft of my thesis. We have almost finished the research part, but we will further revise it. We plan to send a paper from the thesis to a journal in Oct 2022:
+* Gu, H., Rahrovani Y, Austin R. Innovating Product Meaning with Digital Technology in the Case of Electric Vehicles: A Design and Feedback Perspective. Now in the final stage of submission preparation.
 
-Undergrad Publications
-======
-* Wan, X., Li, D., Chen, J., **Lei, Y**. 2020. [Managing customer returns strategy with the option of selling returned products](https://www.sciencedirect.com/science/article/pii/S0925527320301717). *International Journal of Production Economics* 230 (12) 1077794
-* Yan, N., Chen, J., Pun, H., **Lei, Y**. 2020. [JD: E-invoice with blockchain](https://www.iveypublishing.ca/s/product/jd-einvoice-with-blockchain/01t5c00000CwqpbAAB). *Ivey Publishing*. 9B20M047 (Business Case) and 8B20M047 (Teaching Note)
+
 
   
+
+Other Research 
+======
+I have another project on how products reach optimal distinctiveness with digital technology with Yasser and Rob. I am responsible for drafting the paper and I contribute to the conceptualization. Now we have written a version of the literature review. The theoretical development part is in progress. We expect to submit this paper in Oct 2022. 
+
+
+
+Conference Proceedings 
+======
+* Gu, H., Rahrovani Y, Austin R. (2022). Meaning Innovation with Digital Technology in the Case of
+Electric Vehicles: A Design and Feedback Perspective. *Proceedings of the 82nd Annual Meeting of the
+Academy of Management (AOM)*, Seattle, WA.
+
+* Gu, H., Rahrovani Y, Austin R. (2021). [Role of Digital Technology in Product Meaning Innovation: A Design Perspective](https://journals.aom.org/doi/abs/10.5465/AMBPP.2021.11891abstract). *Proceedings of the 81st Annual Meeting of the Academy of Management (AOM)*, Vitrual.
+
+* Gu, H., Rahrovani Y. (2019). [Designer Adaptation: A Feedback Perspective in the Context of Mobile Applications](https://aisel.aisnet.org/icis2019/mobile_iot/mobile_iot/1/). *Proceedings of the 40th International Conference on Information Systems (ICIS)*, Munich, Germany.
+
+* Neufeld, D.J., Gu, H. (2019). [Leadership Emergence and Impact on Open Source Software Project Success: A Comparative Case Study](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.11698abstract). *Proceedings of the 79th Annual Meeting of the Academy of Management (AOM)*, Boston, MA.
+
+
