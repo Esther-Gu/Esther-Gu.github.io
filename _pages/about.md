@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I am Esther (Haoyue) Gu, a PhD candidate in Information Systems at Ivey Business School, Western University, Canada. My advisors are Prof. [Yasser Rahrovani](https://www.ivey.uwo.ca/faculty/directory/yasser-rahrovani/) and Prof. [Robert Austin](https://www.ivey.uwo.ca/faculty/directory/rob-austin/). My CV can be found [here](https://uwoca-my.sharepoint.com/personal/hgu53_uwo_ca/Documents/6%20Job%20market/20220430%20Esther%20(Haoyue)%20Gu_CV.pdf).
+Hi I am Esther (Haoyue) Gu, a PhD candidate in Information Systems at Ivey Business School, Western University, Canada. My advisors are Prof. [Yasser Rahrovani](https://www.ivey.uwo.ca/faculty/directory/yasser-rahrovani/) and Prof. [Robert Austin](https://www.ivey.uwo.ca/faculty/directory/rob-austin/). My CV can be found [here](https://uwoca-my.sharepoint.com/:b:/g/personal/hgu53_uwo_ca/EZu5tT5ATodMpwtVWkHuW7ABUa3xaJph5xGcrpW5zoFQ5Q).
 
 I am on the job market during 2022-2023. 
 
