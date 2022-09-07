@@ -29,5 +29,5 @@ My second research project is about designers’ strategies to reach optimal dis
 
 * Rahrovani, Y., Gu, H., Austin R. Reaching Optimal Distinctiveness at Different Product Dimensions: Case studies in Designers’ Strategies to Influence User Perceptions by Changing Interpretive Flexibility and Sending Signals Over Time. Now in the stage of theoretical development
 
-My third research project is under review at *Group Decision and Negotiation*. The paper is related to leadership emergence in Open Source Software context.  
+My third research project is under review. The paper is related to leadership emergence in Open Source Software context.
 * Gu, H., Neufeld, D., Title hidden.
