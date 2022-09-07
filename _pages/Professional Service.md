@@ -9,8 +9,9 @@ redirect_from:
 
 Professional Service
 ======
-* Reviewer: ICIS, ECIS, AOM
-* Ivey IS Brown Bag Coordinator, 2021-2022
-* Academic VP, Ivey PhD Student Association, 2018-2019 
-* Host the incoming Ivey PhD student orientation, 2018
+* Reviewer: ICIS, ECIS, AoM
 * Professional Membership: AIS, AoM
+* Ontario Qualitative Workgroup Participant, 2019-present
+* IS Brown Bag Coordinator, Ivey Business School, 2021-2022
+* New Organizational Theories Exploration Sessions Participant, Ivey Business School, 2019-2020
+* Academic VP in the Ivey PhD Student Association, organized research seminars and hosted PhD students orientation, 2018-2019 
