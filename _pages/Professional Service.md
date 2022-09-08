@@ -9,7 +9,7 @@ redirect_from:
 
 Professional Service
 ======
-* Reviewer: ICIS, ECIS, AoM
+* Ad Hoc Reviewer: IT&P, ICIS, ECIS, AoM
 * Professional Membership: AIS, AoM
 * Ontario Qualitative Workgroup Participant, 2019-present
 * IS Brown Bag Coordinator, Ivey Business School, 2021-2022
