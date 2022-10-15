@@ -12,6 +12,8 @@ My research statement can be found [here](https://uwoca-my.sharepoint.com/:b:/g/
 
 Conference Proceedings 
 ======
+* Gu, H., Rahrovani Y, Austin R. (2022). Digital Technology in Design Driven Innovation: Case studies in Electric Vehicles.\textit{ Proceedings of the 43rd International Conference on Information Systems (ICIS)}, Copenhagen, Denmark.
+
 * Gu, H., Rahrovani Y, Austin R. (2022). [Meaning Innovation with Digital Technology in the Case of Electric Vehicles: A Design and Feedback Perspective](https://journals.aom.org/doi/abs/10.5465/AMBPP.2022.11115abstract). *Proceedings of the 82nd Annual Meeting of the Academy of Management (AOM)*, Seattle, WA.
 
 * Gu, H., Rahrovani Y, Austin R. (2021). [Role of Digital Technology in Product Meaning Innovation: A Design Perspective](https://journals.aom.org/doi/abs/10.5465/AMBPP.2021.11891abstract). *Proceedings of the 81st Annual Meeting of the Academy of Management (AOM)*, Virtual.
@@ -20,9 +22,13 @@ Conference Proceedings
 
 * Neufeld, D.J., Gu, H. (2019). [Leadership Emergence and Impact on Open Source Software Project Success: A Comparative Case Study](https://journals.aom.org/doi/abs/10.5465/AMBPP.2019.11698abstract). *Proceedings of the 79th Annual Meeting of the Academy of Management (AOM)*, Boston, MA.
 
+Doctoral Consortia 
+======
+* ICIS 2022 and AoM CTO Division 2021
+
 Dissertation Research 
 ======
-I am working on revising the full draft of my thesis. I plan to send a paper from the thesis to a top IS journal in Oct 2022:
+I have written all seven chapters of my thesis. I am revising the full draft of my thesis. I plan to send a paper from the thesis to a top IS journal in Oct 2022:
 * Gu, H., Rahrovani Y, Austin R. Innovating Product Meaning with Digital Technology in the Case of Electric Vehicles. Now in the final stage of submission preparation.
  
 Work in Progress
