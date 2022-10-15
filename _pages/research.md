@@ -12,7 +12,7 @@ My research statement can be found [here](https://uwoca-my.sharepoint.com/:b:/g/
 
 Conference Proceedings 
 ======
-* Gu, H., Rahrovani Y, Austin R. (2022). Digital Technology in Design Driven Innovation: Case studies in Electric Vehicles.\textit{ Proceedings of the 43rd International Conference on Information Systems (ICIS)}, Copenhagen, Denmark.
+* Gu, H., Rahrovani Y, Austin R. (2022). Digital Technology in Design Driven Innovation: Case studies in Electric Vehicles. Proceedings of the 43rd International Conference on Information Systems (ICIS), Copenhagen, Denmark.
 
 * Gu, H., Rahrovani Y, Austin R. (2022). [Meaning Innovation with Digital Technology in the Case of Electric Vehicles: A Design and Feedback Perspective](https://journals.aom.org/doi/abs/10.5465/AMBPP.2022.11115abstract). *Proceedings of the 82nd Annual Meeting of the Academy of Management (AOM)*, Seattle, WA.
 
