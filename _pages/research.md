@@ -28,14 +28,17 @@ Doctoral Consortia
 
 Dissertation Research 
 ======
-I have written all seven chapters of my thesis. I am revising the full draft of my thesis. I plan to send a paper from the thesis to a top IS journal in Oct 2022:
-* Gu, H., Rahrovani Y, Austin R. Innovating Product Meaning with Digital Technology in the Case of Electric Vehicles. Now in the final stage of submission preparation.
+In my thesis, I study how designers innovate meaning with digital technology. I define product meaning as an impression conveyed collectively by a defining set of functional and/or aesthetic qualities of a product that cause it to be perceived as a particular kind of product. With qualitative case studies in the context of electric vehicles (EV), I conceptualize different mechanisms of innovating meaning with digital technology. My contributions are two-fold. One is to make a distinction between innovation in meaning and in functions or aesthetics with digital technology. Innovation in product meaning with digital technology is an important but overlooked aspect of product innovation in IS. The other is to take a designer-centric perspective. I argue that designers innovate product meaning and propose innovative meaning to users with digital technology, in addition to improving product function and aesthetics to fit user preferences. 
+
+I will publish a series of journal papers about innovating meaning with digital technology from my thesis, given I have written all seven chapters. The following paper  is currently at the stage of submission preparation:
+* Gu, H., Rahrovani Y, Austin R. Innovating Product Meaning with Digital Technology in the Case of Electric Vehicles
  
 Work in Progress
 ======
-My second research project is about designers’ strategies to reach optimal distinctiveness for radically innovative products. I used archival case studies to explore how designers manipulate uncertainties to deliver a coherent product design. This project is in the theorizing stage and is expected to submit to an IS top journal by Dec 2022.
+My second research project is about designers’ strategies to reach optimal distinctiveness in radical product innovation. While the importance of optimal distinctiveness at the product level has been generally acknowledged in IS and strategy research, less attention has been focused on more detailed product dimensions level. I used archival case studies to explore how designers manipulate uncertainties to deliver a coherent product design. This project is in the theorizing stage and is expected to submit to an IS top journal by Dec 2022.
 
 * Rahrovani, Y., Gu, H., Austin R. Reaching Optimal Distinctiveness at Different Product Dimensions: Case studies in Designers’ Strategies to Influence User Perceptions by Changing Interpretive Flexibility and Sending Signals Over Time. Now in the stage of theoretical development
 
-My third research project is under review. The paper is related to leadership emergence in Open Source Software context.
-* Gu, H., Neufeld, D., Title hidden.
+My third research project is about how designers deal with the discrepancy between their and users’ ideas about product design. I have collected qualitative case data in the context of virtual-reality devices. As data analysis goes, I expect to see more emerging patterns in the process of designers dealing with unexpected user feedback. I plan to finish the data analysis for this paper by spring 2023 and submit it by fall 2023 to a top IS journal. 
+
+My fourth research project is under review with Neufeld, D. The paper is related to leadership emergence in Open Source Software context.
