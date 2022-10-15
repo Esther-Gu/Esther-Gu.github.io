@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+[My research statement in Oct 2022]([https://journals.aom.org/doi/abs/10.5465/AMBPP.2022.11115abstract](https://uwoca-my.sharepoint.com/:b:/g/personal/hgu53_uwo_ca/Ebhiz8YsN_hIr9Is_aO7o1MBReFdhTr15-TX61WJnRpkzg?e=RRMEjx).
 
 Conference Proceedings 
 ======
@@ -25,7 +26,7 @@ I am working on revising the full draft of my thesis. I plan to send a paper fro
  
 Work in Progress
 ======
-My second research project is about designers’ strategies to reach optimal distinctiveness for radically innovative products at different product dimensions over time. I used archival case studies to explore how designers manipulate uncertainties to deliver a coherent product design. This project is in the theorizing stage and is expected to submit to an IS top journal by Dec 2022.
+My second research project is about designers’ strategies to reach optimal distinctiveness for radically innovative products. I used archival case studies to explore how designers manipulate uncertainties to deliver a coherent product design. This project is in the theorizing stage and is expected to submit to an IS top journal by Dec 2022.
 
 * Rahrovani, Y., Gu, H., Austin R. Reaching Optimal Distinctiveness at Different Product Dimensions: Case studies in Designers’ Strategies to Influence User Perceptions by Changing Interpretive Flexibility and Sending Signals Over Time. Now in the stage of theoretical development
 
