@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-[My research statement in Oct 2022]([https://journals.aom.org/doi/abs/10.5465/AMBPP.2022.11115abstract](https://uwoca-my.sharepoint.com/:b:/g/personal/hgu53_uwo_ca/Ebhiz8YsN_hIr9Is_aO7o1MBReFdhTr15-TX61WJnRpkzg?e=RRMEjx).
+
+My research statement can be found [here](https://uwoca-my.sharepoint.com/:b:/g/personal/hgu53_uwo_ca/Ebhiz8YsN_hIr9Is_aO7o1MBReFdhTr15-TX61WJnRpkzg?e=RRMEjx).
 
 Conference Proceedings 
 ======
