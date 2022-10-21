@@ -37,8 +37,6 @@ Work in Progress
 ======
 My second research project is about designers’ strategies to reach optimal distinctiveness in radical product innovation. While the importance of optimal distinctiveness at the product level has been generally acknowledged in IS and strategy research, less attention has been focused on more detailed product dimensions level. I used archival case studies to explore how designers manipulate uncertainties to deliver a coherent product design. This project is in the theorizing stage and is expected to submit to an IS top journal by Dec 2022.
 
-* Rahrovani, Y., Gu, H., Austin R. Reaching Optimal Distinctiveness at Different Product Dimensions: Case studies in Designers’ Strategies to Influence User Perceptions by Changing Interpretive Flexibility and Sending Signals Over Time. Now in the stage of theoretical development
-
 My third research project is about how designers deal with the discrepancy between their and users’ ideas about product design. I have collected qualitative case data in the context of virtual-reality devices. As data analysis goes, I expect to see more emerging patterns in the process of designers dealing with unexpected user feedback. I plan to finish the data analysis for this paper by spring 2023 and submit it by fall 2023 to a top IS journal. 
 
 My fourth research project is under review with Neufeld, D. The paper is related to leadership emergence in Open Source Software context.
