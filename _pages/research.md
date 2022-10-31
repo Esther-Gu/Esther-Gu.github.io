@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My research statement can be found [here](https://uwoca-my.sharepoint.com/:b:/g/personal/hgu53_uwo_ca/Ebhiz8YsN_hIr9Is_aO7o1MBReFdhTr15-TX61WJnRpkzg?e=RRMEjx).
+My research statement can be found [here](https://uwoca-my.sharepoint.com/:w:/g/personal/hgu53_uwo_ca/EabMCwY9b3dCuJvsC5j4sKMBEZJQLIQuXXddlyBEG_XKOg?e=MzXJzN).
 
 Conference Proceedings 
 ======
