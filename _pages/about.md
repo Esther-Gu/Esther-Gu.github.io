@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi I am Esther (Haoyue) Gu, a PhD candidate in Information Systems at Ivey Business School, Western University, Canada. My advisors are Prof. [Yasser Rahrovani](https://www.ivey.uwo.ca/faculty/directory/yasser-rahrovani/) and Prof. [Robert Austin](https://www.ivey.uwo.ca/faculty/directory/rob-austin/). My [CV can be found here](https://uwoca-my.sharepoint.com/:b:/g/personal/hgu53_uwo_ca/ETNHhCey1AJPrmg9CJAEVlkB5BJm2pEOt9o52SGjHliDKA?e=XogCMg). Here are my [research statement](https://uwoca-my.sharepoint.com/:b:/g/personal/hgu53_uwo_ca/Ebhiz8YsN_hIr9Is_aO7o1MBReFdhTr15-TX61WJnRpkzg?e=RRMEjx) and [teaching statement](https://uwoca-my.sharepoint.com/:b:/g/personal/hgu53_uwo_ca/Efj86JyDWmROitImH_WCiWsB52a1G6Arnk3_EE5nAlRhQA?e=OaA4hS).
+Hi I am Esther (Haoyue) Gu, a PhD candidate in Information Systems at Ivey Business School, Western University, Canada. My advisors are Prof. [Yasser Rahrovani](https://www.ivey.uwo.ca/faculty/directory/yasser-rahrovani/) and Prof. [Robert Austin](https://www.ivey.uwo.ca/faculty/directory/rob-austin/). My [CV can be found here](https://uwoca-my.sharepoint.com/:b:/g/personal/hgu53_uwo_ca/ETNHhCey1AJPrmg9CJAEVlkB5BJm2pEOt9o52SGjHliDKA?e=XogCMg). Here are my [research statement](https://uwoca-my.sharepoint.com/:w:/g/personal/hgu53_uwo_ca/EabMCwY9b3dCuJvsC5j4sKMBEZJQLIQuXXddlyBEG_XKOg?e=MzXJzN), [teaching statement](https://uwoca-my.sharepoint.com/:w:/g/personal/hgu53_uwo_ca/EeIqwPIhPttMt3Ivw26G8sEBtSf3KYBj_HMCz7VzYAE5kg?e=z4uwUZ), and [diversity statement here](https://uwoca-my.sharepoint.com/:w:/g/personal/hgu53_uwo_ca/EeIEtHatDyZMjXAj7XUBb9UBdtbnnxjRQ-Lb0E-Frd8mww?e=eR8m4d).
 
 I am on the job market now, expecting to complete my doctoral degree by April 2023. 
 
