@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Ivey Business School, Western University, graduating in June 2023. I am actively seeking roles in Toronto as a credit analyst, data analyst, consultant, or user experience researcher. If you are aware of any opportunities that align with my skillset, please feel free to reach out.
-With expertise in data analysis using Python, R, Excel VBA, and Stata, I recently completed a credit risk analysis Python where I built and validated machine learning models. You can find the details of the project on my GitHub repository: [GitHub Project](https://github.com/Esther-Gu/CreditRiskAnalysis/blob/main/code_description.md).
+I am a diligent PhD candidate in Information Systems at Western University, with my defense scheduled for June 2023. Post-defense, I plan to rest briefly before commencing a new journey in the Business or IT sectors within Canada from September 2023.
 
-In addition to my technical skills, I have a strong business acumen and experience in problem-solving within the technology innovation management field. Over the past six years, I have conducted interviews with executives, product managers, and engineers in the electric vehicle industry to gain insights into next-generation product development. I was honored to present my findings at a prestigious conference in the field: [Conference Presentation](https://aisel.aisnet.org/icis2022/hci_robot/hci_robot/4/).
+While I've been offered an esteemed Assistant Professor position at Durham University, a QS top 100 institution, I'm committed to making a transition into the industry. 
 
-While I have received an assistant professor offer from Durham University, a top 100 university worldwide, I am eager to transition to the industry and make a real impact. I am excited to leverage my skills and passion in a professional setting.
+My strong skills encompass:
+-Proficiency in Python programming
+-Aptitude for data science and statistical modeling
+-Proficiency in data analysis using SQL and Excel
+-Expertise in business communication, pre-sales skills, and consulting
 
-I am actively looking for opportunities outside of academia, and I am open to exploring challenging roles that allow me to contribute to a dynamic and innovative team. If you have any leads or suggestions, please do not hesitate to connect with me.
+I welcome any potential opportunities that align with my skills and career aspirations. Please feel free to reach out if you know of any suitable roles. Thank you!
 
