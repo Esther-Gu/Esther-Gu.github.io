@@ -6,10 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My [teaching statement can be found here](https://uwoca-my.sharepoint.com/:w:/g/personal/hgu53_uwo_ca/EeIqwPIhPttMt3Ivw26G8sEBtSf3KYBj_HMCz7VzYAE5kg?e=z4uwUZ).
-
-I foster an inclusive learning environment and help students from underrepresented backgrounds to succeed. See my [diversity statement here](https://uwoca-my.sharepoint.com/:w:/g/personal/hgu53_uwo_ca/EeIEtHatDyZMjXAj7XUBb9UBdtbnnxjRQ-Lb0E-Frd8mww?e=eR8m4d).
-
 My teaching style is highly interactive. I benefited a lot from the influence of [Ivey case-based teaching](https://www.youtube.com/watch?v=sLueM_EHOLE).
 
 * Teaching demonstration on Social Media Data Analytics, master level, Teaching Mentor Program (one-semester training on teaching), the Center for Teaching and Learning, Western University, 2020
