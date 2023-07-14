@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
-My [research statement can be found here](https://uwoca-my.sharepoint.com/:w:/g/personal/hgu53_uwo_ca/EabMCwY9b3dCuJvsC5j4sKMBEZJQLIQuXXddlyBEG_XKOg?e=MzXJzN).
-
 Conference Proceedings 
 ======
 * Gu, H., Rahrovani Y, Austin R. (2022). Digital Technology in Design Driven Innovation: Case studies in Electric Vehicles. Proceedings of the 43rd International Conference on Information Systems (ICIS), Copenhagen, Denmark.
