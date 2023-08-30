@@ -10,6 +10,8 @@ redirect_from:
 
 I've recently completed my PhD in Information Systems at Western University. Now I plan to rest briefly before commencing a new job-searching journey in the Business or IT sectors within Canada in September 2023.
 
+<a href="https://drive.google.com/file/d/192Xr-JDy-2Z5NVj2ekNfMrzMxsmluZhd/view">My CV is here.</a>
+
 While I’ve been offered an esteemed Assistant Professor position at Durham University, a QS top 100 institution, I’m committed to making a transition into the industry.
 
 My strong skills encompass:
