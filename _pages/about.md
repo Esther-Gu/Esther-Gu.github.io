@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I've recently completed my PhD in Information Systems at Western University. Now I plan to rest briefly before commencing a new job-searching journey in the Business or IT sectors within Canada in September 2023.
+I hold a PhD degree in Business Administration, specialized in Information Systems, from the Ivey Business School at the Western University. While I’ve been offered an esteemed Assistant Professor position at Durham University, a QS top 100 institution, I made a transition into the industry. 
+
+Now I work as a senior consultant at EY Canada to help business corporations, large or small, to claim government tax incentives for their technology innovation efforts. These technological innovations truly get me excited.
 
 <a href="https://drive.google.com/file/d/192Xr-JDy-2Z5NVj2ekNfMrzMxsmluZhd/view">My CV is here.</a>
 
-While I’ve been offered an esteemed Assistant Professor position at Durham University, a QS top 100 institution, I’m committed to making a transition into the industry.
+Outside work, I enjoy reading, writing, investing, and working out. 
 
 My strong skills encompass:
-* Proficiency in Python programming
+* Proficiency in writing, communicating, and programming
 * Aptitude for data science and statistical modeling
-* Proficiency in data analysis using SQL and Excel
-* Expertise in business communication, pre-sales skills, and consulting
-     
-I welcome any potential opportunities that align with my skills and career aspirations. Please feel free to reach out if you know of any suitable roles. Thank you!
-
