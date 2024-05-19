@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "Technology"
+    url: /technology/
   
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Finance"
+    url: /finance/
   
-  - title: "Honors and Awards"
-    url: /awards/
+  - title: "Life"
+    url: /life/
     
-  - title: "Professional Service"
-    url: /Professional Service/
+  - title: "Career"
+    url: /career/
   
   
   
