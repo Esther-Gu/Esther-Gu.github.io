@@ -9,4 +9,7 @@ redirect_from:
 
 Write about exciting technology products
 ======
-* To be continued 
+* To be continued
+* AI products
+* Product managment
+* Coding
