@@ -9,4 +9,7 @@ redirect_from:
 
 Moments in life
 ======
-* To be continued 
+* To be continued
+* Book reviews
+* Animations and movies
+* Work out
