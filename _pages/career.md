@@ -10,3 +10,5 @@ redirect_from:
 The career game
 ======
 * To be continued
+* Leaving academia
+* How to climb the organizational ladder
