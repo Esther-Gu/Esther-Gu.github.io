@@ -9,4 +9,7 @@ redirect_from:
 
 Write about finance basics
 ======
-* To be continued 
+* To be continued
+* Index funds vs individual stock
+* Portfolio: when to choose 100% stock
+* Rule of thumb for saving
