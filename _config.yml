@@ -8,13 +8,13 @@
 # Site Settings
 
 locale                   : "en-US"
-title                    : "Haoyue (Esther) Gu"
+title                    : "Haoyue Gu"
 title_separator          : "-"
-name                     : &name "Haoyue (Esther) Gu"
+name                     : &name "Haoyue Gu"
 description              : &description "personal description"
-url                      : https://esther-gu.github.io/Esther_Gu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Haoyue-Gu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://esther-gu.github.io/Esther_Gu.github.io/"
+repository               : "Haoyue-Gu/Haoyue-Gu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
